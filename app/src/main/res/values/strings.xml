@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Fisika Kubus Balok</string>
+    <string name="title_home">Home</string>
+    <string name="title_gambar">Gambar</string>
+    <string name="title_video">Video</string>
+
+
+    <string name="home_text"><![CDATA[<h1>Kubus</h1>
+<h3>Sifat-Sifat Kubus</h3>
+<p>
+  Semua sisi kubus berbentuk persegi. <br />
+  Semua rusuk kubus beukuran sama panjang. <br />
+  Setiap diagonal bidang pada kubus memiliki ukuran yang sama panjang. <br />
+  Setiap diagonal ruang pada kubus memiliki ukuran yang sama panjang. <br />
+  Setiap bidang diagonal pada kubus memiliki bentuk persegi panjang. <br />
+</p>
+
+<h2>Unsur-Unsur Kubus</h2>
+<ol>
+  <li>Sisi atau Bidang Kubus</li>
+  <p>
+    Sisi atau Bidang Kubus adalah Bidang atau sisi yang membatasi Kubus. Kubus
+    memiliki 6 sisi. Perhatikan gambar kubus diatas, yang merupakan sisi atau
+    bidang kubus yaitu (ABCD), (EFGH), (ABFE), (DCGH), (BCGF), dan (ADHE).
+  </p>
+  <li>Rusuk</li>
+  <p>
+    Rusuk adalah garis potongan antar dua sisi bidang kubus dan terlihat seperti
+    kerangka yang menyusun kubus. Kubus mnemiliki 12 rusuk. Perhatikan gambar
+    kubus diatas, yang merupakan Rusuk yaitu AB, BC, CD, DA, AE, BF, CG, DH, EF,
+    FG, GH, dan HE.
+  </p>
+  <li>Titik Sudut</li>
+  <p>
+    Titik sudut adalah titik potong antara dua atau tiga rusuk. Pada gambar
+    kubus yang sama yaitu kubus ABCD.EFGH terlihat bahwa kubus tersebut memiliki
+    8 sudut, yaitu; A, B, C, D, E, F, G dan H.
+  </p>
+  <li>Diagonal bidang atau diagonal sisi</li>
+  <p>
+    Sekali lagi marilah kita perhatikan gambar kubus ABCD.EFGH di atas, jika
+    kita menginginkan menarik garis pada masing-masing sudut yang berhadapan
+    pada setia sisi atau bidang maka kita akan menemukan garis yang akan
+    membentuk segitiga sama kaki, garis tersebut disebut diagonal bidang atau
+    diagonal sisi. <br />
+    <br />
+
+    Pada kubus ABCD.EFGH memiliki 12 diagonal bidan atau diagonal sisi yaitu AF,
+    BE, BG, FC, CH, DG, AH, DE, BD, AC, EG dan HG.
+  </p>
+  <li>Diagonal ruang</li>
+  <p>
+    Diagonal ruang adalah garis yang menghubungkan dua titik sudut yang saling
+    berhadapan dalam satu ruang. <br />
+    <br />
+
+    Pada kubus ABCD.EFGH tersebut terdapat 4 diagonal ruang, yaitu garis BH, DF,
+    AG, dan EC.
+  </p>
+  <li>Bidang diagonal</li>
+  <p>
+    Bidang diagonal adalah bidang yang dibentuk dari dua garis diagonal bidang
+    dan dua rusuk kubus yang sejajar. <br />
+    <br />
+
+    Pada kubus ABCD. EFGH tersebut memiliki 4 bidang diagonal, yaitu; bidang
+    diagonal ACGE, DBFH, ABGH dan EFCD.
+  </p>
+</ol>
+]]></string>
+
+</resources>

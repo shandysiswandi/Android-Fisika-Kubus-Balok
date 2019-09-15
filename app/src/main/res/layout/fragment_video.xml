@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context="com.example.preman.fisikakubusbalok.fragment.VideoFragment">
+
+    <Button
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:text="Balok"
+        android:id="@+id/btn1"
+        android:textSize="20dp"
+        android:layout_width="0dp"
+        android:layout_height="100dp" />
+
+    <Button
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:text="Kubus"
+        android:id="@+id/btn2"
+        android:textSize="20dp"
+        android:layout_width="0dp"
+        android:layout_height="100dp" />
+
+</LinearLayout>
